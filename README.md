@@ -34,5 +34,5 @@ c. Level number, 1 being the bottom one, the elevator connects on
 
 Example: `2 1 1` means the elevator is two "stories" big, has three stops (bottom, middle, top) and connects on the bottommost level. `2 0 1` whould basically match the vanilla "Up Further" corridor.
 
-Vanilla elevators more closely follow the style of the original up/down corridors wihle offering a tighter setup.
+Vanilla elevators more closely follow the style of the original up/down corridors while offering a tighter setup.
 
