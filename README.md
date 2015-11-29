@@ -12,6 +12,9 @@ Originally by [NovaDrake711](http://www.minecraftforum.net/forums/mapping-and-mo
 ### Cellar
 Rooms with a three high space below the floor to house potentially hidden things below the floor. Small version based on the Small Camber by [NovaDrake711](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2420176-tardis-mod-updated-to-v0-99-on-13-08-2015?comment=1178).
 
+### Garden of Grass
+Room suitable for growning big trees, Botania etc.
+
 ### LP Relay
 Intended as a central relay for a Logistics Pipes setup inside the TARDIS. Central indented spot for the power junction, lots of roundels to connect inventory connector pipes to.
 
