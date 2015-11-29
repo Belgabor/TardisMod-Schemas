@@ -18,6 +18,9 @@ Intended as a central relay for a Logistics Pipes setup inside the TARDIS. Centr
 ### Machines
 Various rooms for machines along the walls with corresponding trenches for piping/conduits.
 
+### Tanks
+Rooms for full size RailCraft tanks. Offer plenty space above and below for cables and/or machines.
+
 
 ## Utility
 Various corridors and elevators for tighter setups.
