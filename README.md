@@ -9,13 +9,17 @@ Various rooms for specific uses
 ### Big Farm
 Based on a design originally by [NovaDrake711](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2420176-tardis-mod-updated-to-v0-99-on-13-08-2015?comment=1178), so credit goes to them.
 
-In the "Fixed" version I removed some minor inconsistencies in roundel placement. The "Deeper" version features 3 deep farm slots. "Spacious" has the walkways on the outer wall less cramped and the side nooks of the slots are 3 deep as well. All should be stackable with small height steps
+In the "Fixed" version I removed some minor inconsistencies in roundel placement. The "Deeper" version features 3 deep farm slots. "Spacious" has the walkways on the outer wall less cramped and the side nooks of the slots are 3 deep as well. All should be stackable with small height steps.
 
 ### Blood Magic Altar
 Should be self-explanatory =)
+The "Alt" varsion has some roundels next to the alter for automation, but thus blocks placing ther altar lower than suggested.
 
 ### Cellar
 Rooms with a three high space below the floor to house potentially hidden things below the floor. Small version based on the Small Camber by [NovaDrake711](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2420176-tardis-mod-updated-to-v0-99-on-13-08-2015?comment=1178).
+
+### Disco Small
+Room inspired by [riskable](https://www.youtube.com/watch?v=21JZOXFUdWI)'s Disco schema. Smaller, suitable for e.g. an energized Thaumcraft node.
 
 ### Garden of Grass
 Room suitable for growning big trees, Botania etc.
@@ -24,7 +28,7 @@ Room suitable for growning big trees, Botania etc.
 Intended as a central relay for a Logistics Pipes setup inside the TARDIS. Central indented spot for an power conduit to the power junction, lots of roundels to connect inventory connector pipes to.
 
 ### Machines
-Various rooms for machines along the walls with corresponding trenches for piping/conduits.
+Various rooms for machines along the walls with corresponding trenches for piping/conduits and/or room below the floor.
 
 ### Tanks
 Rooms for full size RailCraft tanks. Offer plenty space above and below for cables and/or machines.
