@@ -6,6 +6,9 @@ In general I use the following abbreviations for basic layout variants. `O` is a
 ## Rooms
 Various rooms for specific uses
 
+### Big/Bigger/Huge
+"Emptier" variants of the vanilla Big Chamber schama. SD/LD variants have upper story doors in short or large height steps. Big is the same size as the Big Chamber, Bigger and Huge are two and three large height steps high respectively with the same horizontal footprint.
+
 ### Big Farm
 Based on a design originally by [NovaDrake711](http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2420176-tardis-mod-updated-to-v0-99-on-13-08-2015?comment=1178), so credit goes to them.
 
